@@ -1,0 +1,35 @@
+17 ?- father(abdulaziz, mohammed).
+true.
+
+18 ?- father(abdulaziz, nawaf).
+true.
+
+19 ?- father(abdulaziz, sarah).
+true.
+
+20 ?- mother(dalal, mohammed).
+true.
+
+21 ?- mother(dalal, nawaf).
+true.
+
+22 ?- mother(dalal, sarah).
+true.
+
+23 ?- brother(mohammed, nawaf).
+true .
+
+24 ?- brother(mohammed, sarah).
+true .
+
+25 ?- brother(nawaf, mohammed).
+true .
+
+26 ?- brother(nawaf, sarah).
+true .
+
+27 ?- sister(sarah, mohammed).
+true .
+
+28 ?- sister(sarah, nawaf).
+true .
